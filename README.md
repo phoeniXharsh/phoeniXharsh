@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phoeniXharsh
 - 👀 I’m interested in Android, Web, DevOps, and ML.
 - 🌱 I’m currently learning Android.
-- 💞️ I’m looking to collaborate on Android and Web Development.
+- 💞️ I’m looking to collaborate on Machine Learning and Android.
 - 📫 You can reach me out by writing a mail on hv.tiwari178@gmail.com
 
 <!---
