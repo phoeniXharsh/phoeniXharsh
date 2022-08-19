@@ -1,5 +1,6 @@
 ![redesign](https://user-images.githubusercontent.com/60690724/185357409-7af4ede7-45ca-4dac-a358-5cc4e09ed802.gif)
 
+
 # <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Harshvardhan Tiwari... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
 
 A passionate software engineer from India. My passion for software lies in learning new technologies like Data Science, DevOps, MLOps, Android etc. and get to work upon them to contribute to the business and the society.
